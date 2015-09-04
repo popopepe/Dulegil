@@ -20,4 +20,6 @@ public class MainActivity extends Activity {
 	//update
 	//go home
 	//friday
+	
+	//æ»≥Á«œººø‰
 }
